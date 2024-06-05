@@ -11,7 +11,7 @@ import os
 def main():
     
     limpaTela();
-    credential = 'ea08bc5e0da9443ad66bdd836ae7ce72';
+    credential = '{keyApi}';
     artista = '';
     musica = '';
     resposta = '';
